@@ -1,3 +1,5 @@
+site_name: Prateek Notes
+site_url: https://<username>.github.io/notes-site/
 theme:
   name: material
   palette:
@@ -15,3 +17,5 @@ theme:
       toggle:
         icon: material/weather-sunny
         name: Switch to light mode
+nav:
+  - Home: index.md
